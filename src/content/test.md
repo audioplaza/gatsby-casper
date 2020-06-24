@@ -1,8 +1,8 @@
 ---
 layout: post
-title: A Full and Comprehensive Style Test
-image: img/testimg-cover.jpg
-author: [Ghost]
+title: 데뷔의 성공을 기념하는 엘락 출사표의 스페셜 에디션
+image: https://cloud.audioplaza.co.kr/brands/elac/dfr52/elac-dfr52-4.jpg?d=1310x1746
+author: [Acros]
 date: 2018-09-30T07:03:47.149Z
 tags:
   - Tests
@@ -26,11 +26,14 @@ Below is just about everything you’ll need to style in the theme. Check the so
 
 ---
 
-Lorem ipsum dolor sit amet, [test link]() adipiscing elit. **This is strong.** Nullam dignissim convallis est. Quisque aliquam. _This is emphasized._ Donec faucibus. Nunc iaculis suscipit dui. 5<sup>3</sup> = 125. Water is H<sub>2</sub>O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. <cite>The New York Times</cite> (That’s a citation). <span style="text-decoration:underline;">Underline</span>. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
+엘락의 오리지널 데뷔(Debut) 시리즈가 처음 공개된 것은 지난 2015년의 일이다. 하이엔드 스피커 설계로 이름을 알린 앤드류 존스라는 걸출한 엔지니어가 하이엔드의 길을 접고, 엘락에 합류했다는 것만으로도 꽤나 흥미로운 뉴스였는데 첫 작품까지 하이엔드가 아닌 정반대의 초 염가 스피커를 들고 나온 것만으로도 신작의 흥행에 커다란 기여를 했다. 당연히 그 염가 스피커의 성능을 놀라운 가격 대비 성능을 보여주었고, 첫 작품의 성공과 함께 UniFi, Navis 같은 연이은 후속작들이 앤드류 존스와 엘락 U.S.A의 이름으로 시장을 휩쓸 었다. 지난 달 리뷰했던 최신작 카리나(Carina)에서는 처음으로 엘락의 전매 특허인 JET 트위터를 사용한 스피커를 내놓는 등의 지칠 줄 모르는 엔지니어링의 진화와 개선으로 현재 앤드류 존스의 스피커는 엘락의 스피커 카탈로그의 70%를 채우고 있다.
 
-HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. To copy a file type `COPY filename`. <del>Dinner’s at 5:00.</del> <span style="text-decoration:underline;">Let’s make that 7</span>. This <del>text</del> has been struck.
+##엘락 엔트리의 새 역사, 데뷔의 진화##
 
+그가 만든 최초의 성공작인 데뷔는 발매 4년 만인 지난 2019년 하반기에 다양한 기술적 업그레이드를 통해 ‘데뷔 2.0’ 으로 진화했다. 신작 데뷔 2.0은 오리지널 디자인의 큰 흐름을 바꾸거나 전면적인 제품의 컨셉을 완전히 바꾸는 일은 없었다. 오리지널의 미비했던 부분들에 대한 세부적 기술적 개량으로 드라이버들의 개선, 캐비닛 설계의 고급화 그리고 이를 기반으로 한 더욱 단단하고 유기적인 그리고 음악적인 사운드를 만들어내는 기술적, 음질적 진화를 이끌어냈다는 평가를 받고 있다. 흥미로운 점은 더욱 세련된 수준으로 끌어올렸음에도 가격은 오리지널과 크게 다르지 않은 수준을 그대로 유지했다는 점이다. 데뷔 시리즈가 지닌 가격 대비 성능, 경제성을 그대로 끌고가되 전체 퍼포먼스를 더욱 높여 엔트리급 스피커의 끝판왕이자 레퍼런스가 되는 것에 도전한 셈이다.
 ---
+![Small Test Image](https://cloud.audioplaza.co.kr/brands/elac/dfr52/elac-dfr52-tweeter.jpg)
+
 
 ## Media
 
