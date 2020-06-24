@@ -3,7 +3,7 @@ layout: post
 title: 데뷔의 성공을 기념하는 엘락 출사표의 스페셜 에디션
 image: https://cloud.audioplaza.co.kr/brands/elac/dfr52/elac-dfr52-4.jpg?d=1310x1746
 author: [Acros]
-date: 2018-09-30T07:03:47.149Z
+date: 2020-06-25T07:03:47.149Z
 tags:
   - Tests
 ---
